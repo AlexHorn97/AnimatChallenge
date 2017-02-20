@@ -4,3 +4,6 @@ H:\VisualStudio\AlexHornAnimaChall\AlexHornAnimaChall\bin\Debug\AlexHornAnimaCha
 H:\VisualStudio\AlexHornAnimaChall\AlexHornAnimaChall\obj\Debug\AlexHornAnimaChall.csprojResolveAssemblyReference.cache
 H:\VisualStudio\AlexHornAnimaChall\AlexHornAnimaChall\obj\Debug\AlexHornAnimaChall.exe
 H:\VisualStudio\AlexHornAnimaChall\AlexHornAnimaChall\obj\Debug\AlexHornAnimaChall.pdb
+H:\ProfPrac\AnimatChallenge\AlexHornAnimaChall\AlexHornAnimaChall\bin\Debug\AlexHornAnimaChall.exe.config
+H:\ProfPrac\AnimatChallenge\AlexHornAnimaChall\AlexHornAnimaChall\obj\Debug\AlexHornAnimaChall.exe
+H:\ProfPrac\AnimatChallenge\AlexHornAnimaChall\AlexHornAnimaChall\obj\Debug\AlexHornAnimaChall.pdb
