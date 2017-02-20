@@ -1,0 +1,6 @@
+H:\VisualStudio\AlexHornAnimaChall\AlexHornAnimaChall\bin\Debug\AlexHornAnimaChall.exe.config
+H:\VisualStudio\AlexHornAnimaChall\AlexHornAnimaChall\bin\Debug\AlexHornAnimaChall.exe
+H:\VisualStudio\AlexHornAnimaChall\AlexHornAnimaChall\bin\Debug\AlexHornAnimaChall.pdb
+H:\VisualStudio\AlexHornAnimaChall\AlexHornAnimaChall\obj\Debug\AlexHornAnimaChall.csprojResolveAssemblyReference.cache
+H:\VisualStudio\AlexHornAnimaChall\AlexHornAnimaChall\obj\Debug\AlexHornAnimaChall.exe
+H:\VisualStudio\AlexHornAnimaChall\AlexHornAnimaChall\obj\Debug\AlexHornAnimaChall.pdb
